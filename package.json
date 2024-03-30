@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cowsay": "^1.6.0"
+  },
+  "dependencies": {
+    "mathjs": "^12.4.1"
+  }
 }
